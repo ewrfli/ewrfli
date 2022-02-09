@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Levi Li
+- 👋 Hi, I’m Levi
 - 👀 I’m interested in Front End
 - 🌱 I’m currently learning Web technology
 - 📫 How to reach me @
